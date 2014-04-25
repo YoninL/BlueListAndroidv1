@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sample: BlueListAndroidv1
 ===
 
@@ -20,3 +21,7 @@ Running this sample
 
 See the instructions in [Build an Android app using the Mobile Data cloud service](http://www.ibm.com/developerworks/library/mo-android-mobiledata-app/index.html) for more information about how to import this sample into your Android development environment and run the sample in a mobile emulator.
 
+=======
+BlueListAndroidv1
+=================
+>>>>>>> ededc967b3cfca9a6ff8f4ad2285d9b2274d602e
